@@ -98,5 +98,3 @@ For tackling imbalanced datasets, the techniques like **SMOTE** and **ADASYN** w
 - Class imbalance was effectively handled with oversampling techniques like SMOTE and ADASYN, which enhanced model performance in identifying fraudulent claims.
 
 ---
-
-This version is formatted in Markdown, and I've ensured that it aligns with the content you requested. Let me know if you'd like any further customization!
